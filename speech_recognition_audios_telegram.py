@@ -1,6 +1,6 @@
 import speech_recognition as sr
 
-audio_file_path = "MIA/mia-github/speech_recognition_audio_telegram/audios/file_14.wav"
+audio_file_path = ""
 
 def transcribe_file(audio_file_path):
     recognizer = sr.Recognizer()
